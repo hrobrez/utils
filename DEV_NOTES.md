@@ -13,3 +13,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-03-23
 - Ran linter, applied auto-fixes
+
+## 2026-03-23
+- Cross-checked behaviour against spec
+- Fixed off-by-one error in loop
+- Resolved TODO items from previous session
