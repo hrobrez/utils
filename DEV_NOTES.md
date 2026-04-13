@@ -23,3 +23,7 @@ Personal development log — notes, findings, and ongoing work.
 - Added basic retry logic for network requests
 - Bumped patch version
 - Wrote notes on upcoming feature design
+
+## 2026-04-13
+- Updated license year
+- Consolidated duplicate helper functions
